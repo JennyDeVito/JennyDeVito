@@ -4,7 +4,7 @@ _nenhum grau de parentesco com titio Danny_
 
 -   Estudante de ADS na Fatec-SP (indo para o 4º semestre).
 -   Focada em desenvolvimento **Backend com C#** e **.NET**.
--   Entusiasta _~maker~_, montadora de Lego, amante de normas e boas práticas.
+-   Entusiasta _maker_, montadora de Lego, amante de normas e boas práticas.
 -   🐈‍⬛ Tutora da Frida, Olga e Edith.
 
 ---
@@ -13,30 +13,55 @@ _nenhum grau de parentesco com titio Danny_
 
 Este não é somente um portfólio é, também, minha base de conhecimento, backup de configurações e guia para troubleshooting.
 
-Aqui tem histórico do que foi desenvolvido nas disciplinas na faculdade e em cursos livres (é onde consulto o que já fiz e guardo boilerplates)e projetos práticos desenvolvidos em bootcamps.
+Aqui tem o histórico do que foi desenvolvido nas disciplinas na faculdade, em cursos livres e projetos práticos desenvolvidos durante bootcamps.
 
-Registro de projetos maker com ou sem o [**WorstMakers**](https://github.com/worstmakers).
+Meus projetos maker estão no [**WorstMakers**](https://github.com/worstmakers).
 
 ---
 
 ## 🛠️ Tecnologias & Ferramentas
 
-[![wakatime](https://wakatime.com/badge/user/1d9ba0a2-6c8a-4dcd-99dd-46aae04b90e0.svg)](https://wakatime.com/@1d9ba0a2-6c8a-4dcd-99dd-46aae04b90e0)
+Since 2025 dez 03: [![wakatime](https://wakatime.com/badge/user/1d9ba0a2-6c8a-4dcd-99dd-46aae04b90e0.svg)](https://wakatime.com/@1d9ba0a2-6c8a-4dcd-99dd-46aae04b90e0)
 
 -   **Vou bem em:** C#, Python, C, HTML, CSS e JavaScript.
 -   **Sei me virar no:** Pascal e C++.
+-   **Banco de Dados:** MySQL e SQL Server.
+-   **Ferramentas de Dev:** Git, GitHub, VS Code, Micro Editor.
+
+---
 
 <figure>
-    <img src="https://wakatime.com/share/@JennyDeVito/befff8d1-37c4-47fb-8421-c16dd4845e91.svg" style="text-align:center;scale:0.95" alt="Linguagens mais usadas nos últimos 7 dias">
-    <figcaption style="text-align:center">Gráfico com as linguagens que utilizei nos últimos 7 dias.</figcaption>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JennyDeVito" style="text-align:center" alt="Linguagens usadas nos repositórios">
+    <figcaption style="text-align:center">
+        Linguagens usadas nos repositórios.
+    </figcaption>
 </figure>
 
--   **Banco de Dados:** MySQL e SQL Server.
--   **Ferramentas de Dev:** Git, GitHub, VS Code, Micro (o editor de texto via terminal).
+---
 
 <figure>
-    <img src="https://wakatime.com/share/@JennyDeVito/5e007326-df87-424d-9c35-a7800f26f584.svg" style="text-align:center;scale:0.95"alt="OS usados nos último ano.">
-    <figcaption style="text-align:center">Gráfico com os Sistemas Operacionais que utilizei no último ano.</figcaption>
+    <img src="https://wakatime.com/share/@JennyDeVito/a5ac0f05-208a-47c6-a25b-772ce6a5e08c.svg" style="text-align:center;scale:0.95" alt="Linguagens usadas no último ano">
+    <figcaption style="text-align:center">
+        Linguagens que utilizei no último ano.
+    </figcaption>
+</figure>
+
+---
+
+<figure>
+    <img src="https://wakatime.com/share/@JennyDeVito/bc8324fa-d20a-49ae-871b-32e5cd459f02.svg" style="text-align:center;scale:0.95"alt="OS usados nos últimos 30 dias.">
+    <figcaption style="text-align:center">
+        Sistemas Operacionais utilizados nos últimos 30 dias.
+    </figcaption>
+</figure>
+
+---
+
+<figure>
+    <img src="https://wakatime.com/share/@JennyDeVito/61be18b8-b41a-418a-ab47-cf82dcd14124.svg" style="text-align:center;scale:0.95"alt="tempo dev vs tempo doc nos últimos 30 dias.">
+    <figcaption style="text-align:center">
+        Tempo desenvolvendo VS tempo documentando nos últimos 30 dias.
+    </figcaption>
 </figure>
 
 ---
@@ -52,13 +77,16 @@ Registro de projetos maker com ou sem o [**WorstMakers**](https://github.com/wor
 ![AutoCAD](https://img.shields.io/badge/autocad-%23E51050.svg?style=for-the-badge&logo=autocad&logoColor=white)
 ![Autodesk Revit](https://img.shields.io/badge/Autodesk_Revit-%23186BFF.svg?style=for-the-badge&logo=autodeskrevit&logoColor=white)
 
+![KiCad](https://img.shields.io/badge/kicad-%23314CB0.svg?style=for-the-badge&logo=kicad&logoColor=white)
+
 ![Arduino IDE](https://img.shields.io/badge/Arduino%20IDE-%2300979D.svg?style=for-the-badge&logo=Arduino&logoColor=white)
-![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Prettier](https://img.shields.io/badge/prettier-1A2C34?style=for-the-badge&logo=prettier&logoColor=F7BA3E)
+![MicroEditor](https://img.shields.io/badge/Micro%20Editor-2E3192?style=for-the-badge&logo=microeditor&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
@@ -78,7 +106,14 @@ Registro de projetos maker com ou sem o [**WorstMakers**](https://github.com/wor
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ![Linux Mint](https://img.shields.io/badge/Linux%20Mint-87CF3E?style=for-the-badge&logo=Linux%20Mint&logoColor=white)
 ![Debian](https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![Windows 11](https://img.shields.io/badge/Windows_11-0078d4?style=for-the-badge&logo=windows-11&logoColor=white)
+![Starship](https://img.shields.io/badge/starship-DD0B78?style=for-the-badge&logo=starship&logoColor=white)
+
+![ThinkPad](https://img.shields.io/badge/ThinkPad-EE2624?style=for-the-badge&logo=thinkpad&logoColor=white)
+
+---
+
+-   ### Neste arquivo: [![wakatime](https://wakatime.com/badge/user/1d9ba0a2-6c8a-4dcd-99dd-46aae04b90e0/project/c27f6ea8-a478-45ec-98aa-f4e32958ac30.svg)](https://wakatime.com/badge/user/1d9ba0a2-6c8a-4dcd-99dd-46aae04b90e0/project/c27f6ea8-a478-45ec-98aa-f4e32958ac30)
 
 <!--
 **JennyDeVito/JennyDeVito** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
