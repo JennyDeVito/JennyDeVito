@@ -60,8 +60,6 @@ Don't be a 🤬 and just let me have this.
 
 <br><br>
 
-<!-- fix: new line not working -->
-
 <figure>
     <img src="https://wakatime.com/share/@JennyDeVito/bc8324fa-d20a-49ae-871b-32e5cd459f02.svg" style="text-align:center;scale:0.95"alt="OS's used last month">
     <figcaption style="text-align:center">
@@ -71,8 +69,6 @@ Don't be a 🤬 and just let me have this.
 
 <br><br>
 
-<!-- fix: new line not working -->
-
 <figure>
     <img src="https://wakatime.com/share/@JennyDeVito/61be18b8-b41a-418a-ab47-cf82dcd14124.svg" style="text-align:center;scale:0.95"alt="developing VS docummenting time last month">
     <figcaption style="text-align:center">
@@ -81,8 +77,6 @@ Don't be a 🤬 and just let me have this.
 </figure>
 
 <br><br>
-
-<!-- fix: new line not working -->
 
 ## [![wakatime](https://wakatime.com/badge/user/1d9ba0a2-6c8a-4dcd-99dd-46aae04b90e0/project/c27f6ea8-a478-45ec-98aa-f4e32958ac30.svg)](https://wakatime.com/badge/user/1d9ba0a2-6c8a-4dcd-99dd-46aae04b90e0/project/c27f6ea8-a478-45ec-98aa-f4e32958ac30) <sup>in this repo</sup>
 
@@ -146,8 +140,6 @@ efeito e o importante - a mensagem - foi mantida.
 
 <br><br>
 
-<!-- fix: new line not working -->
-
 <figure>
     <img src="https://wakatime.com/share/@JennyDeVito/bc8324fa-d20a-49ae-871b-32e5cd459f02.svg" style="text-align:center;scale:0.95"alt="OS usados nos últimos 30 dias.">
     <figcaption style="text-align:center">
@@ -157,8 +149,6 @@ efeito e o importante - a mensagem - foi mantida.
 
 <br><br>
 
-<!-- fix: new line not working -->
-
 <figure>
     <img src="https://wakatime.com/share/@JennyDeVito/61be18b8-b41a-418a-ab47-cf82dcd14124.svg" style="text-align:center;scale:0.95"alt="tempo dev vs tempo doc nos últimos 30 dias.">
     <figcaption style="text-align:center">
@@ -167,8 +157,6 @@ efeito e o importante - a mensagem - foi mantida.
 </figure>
 
 <br><br>
-
-<!-- fix: new line not working -->
 
 [![wakatime](https://wakatime.com/badge/user/1d9ba0a2-6c8a-4dcd-99dd-46aae04b90e0/project/c27f6ea8-a478-45ec-98aa-f4e32958ac30.svg)](https://wakatime.com/badge/user/1d9ba0a2-6c8a-4dcd-99dd-46aae04b90e0/project/c27f6ea8-a478-45ec-98aa-f4e32958ac30) <sup>neste repositório</sup>
 
@@ -223,7 +211,7 @@ efeito e o importante - a mensagem - foi mantida.
 
 ---
 
-**JennyDeVito/JennyDeVito** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- **JennyDeVito/JennyDeVito** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -234,8 +222,7 @@ Here are some ideas to get you started:
 -   💬 Ask me about ...
 -   📫 How to reach me: ...
 -   😄 Pronouns: ...
--   ⚡ Fun fact: ...
-    -->
+-   ⚡ Fun fact: ... -->
 
 <!-- TODO: GitHub Actions to implement profile cards
 
