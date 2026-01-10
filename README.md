@@ -58,7 +58,9 @@ Don't be a 🤬 and just let me have this.
     </figcaption>
 </figure>
 
-<br>
+<br><br>
+
+<!-- fix: new line not working -->
 
 <figure>
     <img src="https://wakatime.com/share/@JennyDeVito/bc8324fa-d20a-49ae-871b-32e5cd459f02.svg" style="text-align:center;scale:0.95"alt="OS's used last month">
@@ -67,7 +69,9 @@ Don't be a 🤬 and just let me have this.
     </figcaption>
 </figure>
 
-<br>
+<br><br>
+
+<!-- fix: new line not working -->
 
 <figure>
     <img src="https://wakatime.com/share/@JennyDeVito/61be18b8-b41a-418a-ab47-cf82dcd14124.svg" style="text-align:center;scale:0.95"alt="developing VS docummenting time last month">
@@ -76,7 +80,9 @@ Don't be a 🤬 and just let me have this.
     </figcaption>
 </figure>
 
-<br>
+<br><br>
+
+<!-- fix: new line not working -->
 
 ## [![wakatime](https://wakatime.com/badge/user/1d9ba0a2-6c8a-4dcd-99dd-46aae04b90e0/project/c27f6ea8-a478-45ec-98aa-f4e32958ac30.svg)](https://wakatime.com/badge/user/1d9ba0a2-6c8a-4dcd-99dd-46aae04b90e0/project/c27f6ea8-a478-45ec-98aa-f4e32958ac30) <sup>in this repo</sup>
 
@@ -91,7 +97,7 @@ _nenhum grau de parentesco com titio Danny_
 -   Estudante de ADS na Fatec-SP (indo para o 4º semestre).
 -   Focada em desenvolvimento **Backend com C#** e **.NET** e automação com **Python**.
 -   Entusiasta _maker_, montadora de Lego, amante de normas e boas práticas.
--   🐈‍⬛ Tutora da Frida, Olga e Edith.
+-   🐈‍⬛ Tutora da Frida, da Olga e da Edith.
 
 ## Informações importantes
 
@@ -138,7 +144,9 @@ efeito e o importante - a mensagem - foi mantida.
     </figcaption>
 </figure>
 
-<br>
+<br><br>
+
+<!-- fix: new line not working -->
 
 <figure>
     <img src="https://wakatime.com/share/@JennyDeVito/bc8324fa-d20a-49ae-871b-32e5cd459f02.svg" style="text-align:center;scale:0.95"alt="OS usados nos últimos 30 dias.">
@@ -147,7 +155,9 @@ efeito e o importante - a mensagem - foi mantida.
     </figcaption>
 </figure>
 
-<br>
+<br><br>
+
+<!-- fix: new line not working -->
 
 <figure>
     <img src="https://wakatime.com/share/@JennyDeVito/61be18b8-b41a-418a-ab47-cf82dcd14124.svg" style="text-align:center;scale:0.95"alt="tempo dev vs tempo doc nos últimos 30 dias.">
@@ -156,11 +166,15 @@ efeito e o importante - a mensagem - foi mantida.
     </figcaption>
 </figure>
 
-<br>
+<br><br>
+
+<!-- fix: new line not working -->
 
 [![wakatime](https://wakatime.com/badge/user/1d9ba0a2-6c8a-4dcd-99dd-46aae04b90e0/project/c27f6ea8-a478-45ec-98aa-f4e32958ac30.svg)](https://wakatime.com/badge/user/1d9ba0a2-6c8a-4dcd-99dd-46aae04b90e0/project/c27f6ea8-a478-45ec-98aa-f4e32958ac30) <sup>neste repositório</sup>
 
----
+<br><br>
+
+# Badges
 
 ![Opera](https://img.shields.io/badge/Opera-FF1B2D?style=for-the-badge&logo=Opera&logoColor=white)
 ![OneDrive](https://img.shields.io/badge/OneDrive-0078D4.svg?style=for-the-badge&logo=microsoftonedrive&logoColor=white)
@@ -209,20 +223,19 @@ efeito e o importante - a mensagem - foi mantida.
 
 ---
 
-<!-- TODO: TRANSLATE
 **JennyDeVito/JennyDeVito** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+-   🔭 I’m currently working on ...
+-   🌱 I’m currently learning ...
+-   👯 I’m looking to collaborate on ...
+-   🤔 I’m looking for help with ...
+-   💬 Ask me about ...
+-   📫 How to reach me: ...
+-   😄 Pronouns: ...
+-   ⚡ Fun fact: ...
+    -->
 
 <!-- TODO: GitHub Actions to implement profile cards
 
