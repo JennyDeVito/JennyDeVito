@@ -50,7 +50,7 @@ Don't be a 🤬 and just let me have this.
 - **Dev tools:** Git, GitHub, VS Code, Micro Editor.
 
 <br>
-
+<!-- images are sized with width and heigth not scale! -->
 <picture>
     <source srcset="https://wakatime.com/share/@JennyDeVito/a5ac0f05-208a-47c6-a25b-772ce6a5e08c.svg">
     <img src="https://wakatime.com/share/@JennyDeVito/a5ac0f05-208a-47c6-a25b-772ce6a5e08c.svg" style="text-align:center;width:500px;border" alt="Programming languages used over the last year">
@@ -205,7 +205,7 @@ efeito e o importante - a mensagem - foi mantida.
 ![Microsoft PowerPoint](https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)
 ![Microsoft Word](https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white)
 
-![ClickUp](https://img.shields.io/badge/clickup-7B68EE.svg?style=for-the-badge&logo=clickup&logoColor=white) (Power User Verificada)
+![ClickUp](https://img.shields.io/badge/clickup-7B68EE.svg?style=for-the-badge&logo=clickup&logoColor=white) (Verified Power User)
 
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ![Linux Mint](https://img.shields.io/badge/Linux%20Mint-87CF3E?style=for-the-badge&logo=Linux%20Mint&logoColor=white)
