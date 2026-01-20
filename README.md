@@ -4,10 +4,10 @@
 
 _not related to uncle Danny_
 
--   Studying Systems Analysis and Development @ Fatec-SP (starting 4 of 8 semesters course).
--   Focusing in backend with **.NET** w/ **C#** and **Python** for automation.
--   Maker enthusiast, Lego assembler, good practices and standards lover.
--   🐈‍⬛ Frida, Olga and Edith's owner.
+- Studying Systems Analysis and Development @ Fatec-SP (starting 4 of 8 semesters course).
+- Focusing in backend with **.NET** w/ **C#** and **Python** for automation.
+- Maker enthusiast, Lego assembler, good practices and standards lover.
+- 🐈‍⬛ Frida, Olga and Edith's owner.
 
 ## A little about me
 
@@ -44,41 +44,44 @@ Don't be a 🤬 and just let me have this.
 
 [![wakatime](https://wakatime.com/badge/user/1d9ba0a2-6c8a-4dcd-99dd-46aae04b90e0.svg)](https://wakatime.com/@1d9ba0a2-6c8a-4dcd-99dd-46aae04b90e0) <sup>since 2025 dec 3<sup>rd</sup></sup>
 
--   **I'm good with:** C#, Python, C, HTML, CSS e JavaScript.
--   **I can handle myself on:** Pascal e C++.
--   **Database:** MySQL e SQL Server.
--   **Dev tools:** Git, GitHub, VS Code, Micro Editor.
+- **I'm good with:** C#, Python, C, HTML, CSS e JavaScript.
+- **I can handle myself on:** Pascal e C++.
+- **Database:** MySQL e SQL Server.
+- **Dev tools:** Git, GitHub, VS Code, Micro Editor.
 
 <br>
 
-<figure>
-    <img src="https://wakatime.com/share/@JennyDeVito/a5ac0f05-208a-47c6-a25b-772ce6a5e08c.svg" style="text-align:center;scale:0.95" alt="Programming languages used over the last year">
-    <figcaption style="text-align:center">
-        Programming languages used since dec/2025.
-    </figcaption>
-</figure>
+<picture>
+    <source srcset="https://wakatime.com/share/@JennyDeVito/a5ac0f05-208a-47c6-a25b-772ce6a5e08c.svg">
+    <img src="https://wakatime.com/share/@JennyDeVito/a5ac0f05-208a-47c6-a25b-772ce6a5e08c.svg" style="text-align:center;scale:0.6;border" alt="Programming languages used over the last year">
+</picture>
+<p style="text-align:center">
+    Programming languages used since dec/2025.
+</p>
 
 <br><br>
 
-<figure>
-    <img src="https://wakatime.com/share/@JennyDeVito/bc8324fa-d20a-49ae-871b-32e5cd459f02.svg" style="text-align:center;scale:0.95"alt="OS's used last month">
-    <figcaption style="text-align:center">
-        Operating Systems used in the last 30 days.
-    </figcaption>
-</figure>
+<picture>
+    <source srcset="https://wakatime.com/share/@JennyDeVito/bc8324fa-d20a-49ae-871b-32e5cd459f02.svg">
+    <img src="https://wakatime.com/share/@JennyDeVito/bc8324fa-d20a-49ae-871b-32e5cd459f02.svg" style="text-align:center;scale:0.6"alt="OS's used last month">
+</picture>
+<p style="text-align:center">
+    Operating Systems used in the last 30 days.
+</p>
 
 <br><br>
 
-<figure>
-    <img src="https://wakatime.com/share/@JennyDeVito/61be18b8-b41a-418a-ab47-cf82dcd14124.svg" style="text-align:center;scale:0.95"alt="developing VS docummenting time last month">
-    <figcaption style="text-align:center">
-        Time programming VS time docummenting in the last month.
-    </figcaption>
-</figure>
+<picture>
+    <source srcset="https://wakatime.com/share/@JennyDeVito/61be18b8-b41a-418a-ab47-cf82dcd14124.svg">
+    <img src="https://wakatime.com/share/@JennyDeVito/61be18b8-b41a-418a-ab47-cf82dcd14124.svg" style="text-align:center;scale:0.6"alt="developing VS docummenting time last month">
+</picture>
+<p style="text-align:center">
+    Time programming VS time docummenting in the last month.
+</p>
 
 <br><br>
 
-## [![wakatime](https://wakatime.com/badge/user/1d9ba0a2-6c8a-4dcd-99dd-46aae04b90e0/project/c27f6ea8-a478-45ec-98aa-f4e32958ac30.svg)](https://wakatime.com/badge/user/1d9ba0a2-6c8a-4dcd-99dd-46aae04b90e0/project/c27f6ea8-a478-45ec-98aa-f4e32958ac30) <sup>in this repo</sup>
+[![wakatime](https://wakatime.com/badge/user/1d9ba0a2-6c8a-4dcd-99dd-46aae04b90e0/project/c27f6ea8-a478-45ec-98aa-f4e32958ac30.svg)](https://wakatime.com/badge/user/1d9ba0a2-6c8a-4dcd-99dd-46aae04b90e0/project/c27f6ea8-a478-45ec-98aa-f4e32958ac30) <sup>in this repo</sup>
 
 <br>
 
@@ -88,10 +91,10 @@ Don't be a 🤬 and just let me have this.
 
 _nenhum grau de parentesco com titio Danny_
 
--   Estudante de ADS na Fatec-SP (indo para o 4º semestre).
--   Focada em desenvolvimento **Backend com C#** e **.NET** e automação com **Python**.
--   Entusiasta _maker_, montadora de Lego, amante de normas e boas práticas.
--   🐈‍⬛ Tutora da Frida, da Olga e da Edith.
+- Estudante de ADS na Fatec-SP (indo para o 4º semestre).
+- Focada em desenvolvimento **Backend com C#** e **.NET** e automação com **Python**.
+- Entusiasta _maker_, montadora de Lego, amante de normas e boas práticas.
+- 🐈‍⬛ Tutora da Frida, da Olga e da Edith.
 
 ## Informações importantes
 
@@ -124,37 +127,40 @@ efeito e o importante - a mensagem - foi mantida.
 
 [![wakatime](https://wakatime.com/badge/user/1d9ba0a2-6c8a-4dcd-99dd-46aae04b90e0.svg)](https://wakatime.com/@1d9ba0a2-6c8a-4dcd-99dd-46aae04b90e0) <sup>desde 3 dez 2025</sup>
 
--   **Vou bem em:** C#, Python, C, HTML, CSS e JavaScript.
--   **Sei me virar no:** Pascal e C++.
--   **Banco de Dados:** MySQL e SQL Server.
--   **Ferramentas de Dev:** Git, GitHub, VS Code, Micro Editor.
+- **Vou bem em:** C#, Python, C, HTML, CSS e JavaScript.
+- **Sei me virar no:** Pascal e C++.
+- **Banco de Dados:** MySQL e SQL Server.
+- **Ferramentas de Dev:** Git, GitHub, VS Code, Micro Editor.
 
 <br>
 
-<figure>
-    <img src="https://wakatime.com/share/@JennyDeVito/a5ac0f05-208a-47c6-a25b-772ce6a5e08c.svg" style="text-align:center;scale:0.95" alt="Linguagens usadas no último ano">
-    <figcaption style="text-align:center">
-        Linguagens que utilizei desde dez/2025.
-    </figcaption>
-</figure>
+<picture>
+    <source srcset="https://wakatime.com/share/@JennyDeVito/a5ac0f05-208a-47c6-a25b-772ce6a5e08c.svg">
+    <img src="https://wakatime.com/share/@JennyDeVito/a5ac0f05-208a-47c6-a25b-772ce6a5e08c.svg" style="text-align:center;scale:0.6" alt="Linguagens usadas no último ano">
+</picture>
+<p style="text-align:center">
+    Linguagens que utilizei desde dez/2025.
+</p>
 
 <br><br>
 
-<figure>
-    <img src="https://wakatime.com/share/@JennyDeVito/bc8324fa-d20a-49ae-871b-32e5cd459f02.svg" style="text-align:center;scale:0.95"alt="OS usados nos últimos 30 dias.">
-    <figcaption style="text-align:center">
-        Sistemas Operacionais utilizados nos últimos 30 dias.
-    </figcaption>
-</figure>
+<picture>
+    <source srcset="https://wakatime.com/share/@JennyDeVito/bc8324fa-d20a-49ae-871b-32e5cd459f02.svg">
+    <img src="https://wakatime.com/share/@JennyDeVito/bc8324fa-d20a-49ae-871b-32e5cd459f02.svg" style="text-align:center;scale:0.6"alt="OS usados nos últimos 30 dias.">
+</picture>
+<p style="text-align:center">
+    Sistemas Operacionais utilizados nos últimos 30 dias.
+</p>
 
 <br><br>
 
-<figure>
-    <img src="https://wakatime.com/share/@JennyDeVito/61be18b8-b41a-418a-ab47-cf82dcd14124.svg" style="text-align:center;scale:0.95"alt="tempo dev vs tempo doc nos últimos 30 dias.">
-    <figcaption style="text-align:center">
-        Tempo desenvolvendo VS tempo documentando nos últimos 30 dias.
-    </figcaption>
-</figure>
+<picture>
+    <source srcset="https://wakatime.com/share/@JennyDeVito/61be18b8-b41a-418a-ab47-cf82dcd14124.svg">
+    <img src="https://wakatime.com/share/@JennyDeVito/61be18b8-b41a-418a-ab47-cf82dcd14124.svg" style="text-align:center;scale:0.6"alt="tempo dev vs tempo doc nos últimos 30 dias.">
+</picture>
+<p style="text-align:center">
+    Tempo desenvolvendo VS tempo documentando nos últimos 30 dias.
+</p>
 
 <br><br>
 
@@ -230,18 +236,18 @@ Here are some ideas to get you started:
 
 ![Linguagens mais usadas nos repositórios.](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username={JennyDeVito}&theme={noctis_minimus}&exclude={exclude})
 
-<figure>
+<picture>
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=JennyDeVito&theme=noctis_minimus&exclude={exclude}" style="text-align:center" alt="Linguagens mais usadas nos repositórios">
-    <figcaption style="text-align:center">
+    <p style="text-align:center">
         Linguagens mais usadas nos repositórios.
-    </figcaption>
-</figure>
+    </p>
+</picture>
 
-<figure>
+<picture>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JennyDeVito" style="text-align:center" alt="Linguagens usadas nos repositórios">
-    <figcaption style="text-align:center">
+    <p style="text-align:center">
         Linguagens usadas nos repositórios.
-    </figcaption>
-</figure>
+    </p>
+</picture>
 
 --- -->
