@@ -69,10 +69,10 @@ Portuguese and English versions aren't always _ipsis litteris_ translations: eac
 
 Most of my maker projects live at [**WorstMakers**](https://github.com/worstmakers), an open-source collective I co-founded. Highlights:
 
-- **[Carrildo](https://github.com/worstmakers)** — Carro robótico controlado remotamente, baseado em Arduino.
-- **[Dial-Pet](https://github.com/worstmakers)** — Pet virtual em ESP32-S3 M5Dial, com arquitetura de cenas e apps.
-- **[8Cube](https://github.com/worstmakers)** — Cubo de LEDs 8×8×8 com multiplexação via Arduino.
-- **[Weather Station](https://github.com/worstmakers)** — Estação meteorológica com Arduino Nano e múltiplos sensores.
+- **[Carronho](https://github.com/worstmakers/carronho)** — Carro robótico que opera sem controles, baseado em Arduino.
+- **[Carrildo](https://github.com/worstmakers/carrildo)** - Continuação do Carrildo só que com gritos, em andamento.
+- **[Dial-Pet](https://github.com/JennyDeVito/dial-pet)** — Pet virtual em ESP32-S3 M5Dial, com arquitetura de cenas.
+- **[Weather Station](https://github.com/JennyDeVito/sensor-mayhem)** — Estação meteorológica com Arduino Nano e múltiplos sensores.
 
 <br>
 
